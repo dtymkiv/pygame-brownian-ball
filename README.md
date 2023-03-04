@@ -1,6 +1,6 @@
 # pygame-brownian-ball
 
-This is a simple app that simulates Brownian Ball, that bounces in randome directions inside a box, made with pygame
+This is a simple app that simulates Brownian Ball, that bounces in random directions inside a box, made with pygame
 
 ## Program output (Press play, this is a GIF)
 ![](https://github.com/dtymkiv/pygame-brownian-ball/blob/main/readme.d/animation.gif)
