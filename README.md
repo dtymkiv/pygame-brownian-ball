@@ -8,10 +8,15 @@ This is a simple app that simulates Brownian Ball, that bounces in randome direc
 
 ## Notes
 Since we used to imagine axis directions as follows
-![](https://github.com/dtymkiv/pygame-brownian-ball/blob/main/readme.d/circle.png)
+<p align="left">
+  <img src="https://github.com/dtymkiv/pygame-brownian-ball/blob/main/readme.d/circle.png">
+</p>
+
 
 But pygame's axis looks like this
-![](https://github.com/dtymkiv/pygame-brownian-ball/blob/main/readme.d/axis.png)
+<p align="left">
+  <img src="https://github.com/dtymkiv/pygame-brownian-ball/blob/main/readme.d/axis.png">
+</p>
 
 Therefore, some adjustments were made on how ball bounces:
 
